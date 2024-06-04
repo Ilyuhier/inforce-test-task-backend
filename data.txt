@@ -1,0 +1,82 @@
+[{
+"id": 1,
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Toyota_Celica_front_20080521.jpg/1200px-Toyota_Celica_front_20080521.jpg",
+"name": "Toyota Celica",
+"count": 4,
+"size": {
+"width": 200,
+"height": 200
+},
+"weight": "200g",
+"comments": [{
+"id": 1,
+"productId": 1,
+"description": "some text here",
+"date": "14:00 22.08.2021"
+}, {
+"id": 2,
+"productId": 1,
+"description": "some text here",
+"date": "14:00 22.08.2021"
+},
+{
+"id": 3,
+"productId": 1,
+"description": "some text here",
+"date": "14:00 22.08.2021"
+}]
+}, {
+"id": 2,
+"imageUrl": "https://storage.googleapis.com/bossauto-images-dev/images/image_1631696354761.jpg",
+"name": "Nissan GTR",
+"count": 4,
+"size": {
+"width": 200,
+"height": 200
+},
+"weight": "200g",
+"comments": [{
+"id": 3,
+"productId": 2,
+"description": "some text here",
+"date": "14:00 22.08.2021"
+}, {
+"id": 3,
+"productId": 2,
+"description": "some text here",
+"date": "14:00 22.08.2021"
+}]
+}, {
+"id": 3,
+"imageUrl": "https://media.sketchfab.com/models/32bdaafc04904e49a7ec7697c31179e2/thumbnails/2ceb4fafa00d4e2ca1169176f59a0072/5be2f1ffa1d3452ba48f5405b7e8c23c.jpeg",
+"name": "Honda NSX",
+"count": 4,
+"size": {
+"width": 200,
+"height": 200
+},
+"weight": "200g",
+"comments": ["CommentModel", "CommentModel"]
+}, {
+"id": 4,
+"imageUrl": "https://www.driving.co.uk/wp-content/uploads/sites/5/2017/02/nsx-09.jpg",
+"name": "Acura NSX",
+"count": 4,
+"size": {
+"width": 200,
+"height": 200
+},
+"weight": "200g",
+"comments": ["CommentModel", "CommentModel"]
+}, {
+"id": 5,
+"imageUrl": "https://www.classicdriver.com/sites/default/files/users/33362/cars_images/feed_949379/86ed1a3773b55be81a93a928f40f8a5e.jpeg",
+"name": "Lexus LFA",
+"count": 4,
+"size": {
+"width": 200,
+"height": 200
+},
+"weight": "200g",
+"comments": ["CommentModel", "CommentModel"]
+}]
